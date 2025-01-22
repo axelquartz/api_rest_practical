@@ -1,0 +1,20 @@
+{
+  "name": "api_rest_practical",
+  "version": "1.0.0",
+  "description": "Proyecto de ejercicio práctico de consumo de API REST con Javascript",
+  "homepage": "https://github.com/axelquartz/api_rest_practical#readme",
+  "bugs": {
+    "url": "https://github.com/axelquartz/api_rest_practical/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelquartz/api_rest_practical.git"
+  },
+  "license": "MIT",
+  "author": "axelquartz",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
